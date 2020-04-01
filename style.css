@@ -227,6 +227,37 @@ hr
 
 
 
+/*about tab*/
+#abouttab
+{
+	text-align: justify;
+}
+/*--------*/
+
+#abouttab b
+{
+	text-shadow: 2px 2px #7b404b;
+}
+
+#abouttab a
+{
+	text-decoration: none;
+	text-shadow: 2px 2px #714382;
+}
+
+
+
+/*signature inside the about tab*/
+#signature
+{
+	font-weight: bold;
+	font-style: italic;
+	text-align: right;
+}
+/*--------*/
+
+
+
 /*For desktop*/
 @media all and (orientation:landscape)
 {
