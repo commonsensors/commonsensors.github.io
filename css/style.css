@@ -239,6 +239,12 @@ hr
 	text-shadow: 2px 2px #7b404b;
 }
 
+#abouttab a
+{
+	text-decoration: none;
+	text-shadow: 2px 2px #714382;
+}
+
 
 
 /*signature inside the about tab*/
