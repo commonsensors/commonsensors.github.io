@@ -232,7 +232,7 @@ hr
 {
 	text-align: justify;
 }
-/*--------*/
+
 
 #abouttab b
 {
@@ -245,6 +245,25 @@ hr
 	text-shadow: 2px 2px #714382;
 }
 
+.videoWrapper 
+{
+    position: relative;
+    padding-bottom: 75
+
+    %; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+
+.videoWrapper iframe 
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/*--------*/
 
 
 /*signature inside the about tab*/
